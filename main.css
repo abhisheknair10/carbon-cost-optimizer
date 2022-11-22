@@ -1,0 +1,58 @@
+* {
+    background-color: #141414;
+    font-size: 15px;
+    font-weight: 600;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+}
+
+.header {
+    position: relative;
+    color: #3BD16F;
+    top: 20px;
+    left: 20px;
+    display: inline-block;
+    font-size: 30px;
+}
+
+.green-button {
+    position: relative;
+    display: inline-block;
+    background: #3BD16F;
+    padding: 10px 20px;
+    font-size: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    transition-duration: 0.7s;
+}
+
+.green-button:hover {
+    background: #5291F7;
+}
+
+#import-arch {
+    left: 20px;
+}
+
+#dev-docs {
+    left: 40px;
+}
+
+#apis {
+    left: 60px;
+}
+
+#user-icon {
+    position: relative;
+    float: right;
+    top: 10px;
+    right: 20px;
+    height: 60px;
+    width: 60px;
+    background-color: #bb86fc;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 50%;
+    cursor: pointer;
+}
