@@ -56,3 +56,33 @@
     border-radius: 50%;
     cursor: pointer;
 }
+
+.services-dashboard {
+    position: relative;
+    background-color: #282828;
+    height: 650px;
+    width: 20%;
+    left: 0.5%;
+    display: inline-block;
+    border-radius: 7px;
+}
+
+.design-dashboard {
+    position: relative;
+    background-color: #282828;
+    height: 650px;
+    width: 55%;
+    left: 1.5%;
+    display: inline-block;
+    border-radius: 7px;
+}
+
+.report-dashboard {
+    position: relative;
+    background-color: #282828;
+    height: 650px;
+    width: 20%;
+    left: 2.5%;
+    display: inline-block;
+    border-radius: 7px;
+}
